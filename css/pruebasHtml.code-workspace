@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp/htdocs/pruebasHtml"
+		},
+		{
+			"path": "../../Laiding page"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pagina de Inicio"
+	}
+}
